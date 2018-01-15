@@ -1,0 +1,28 @@
+{
+  "name": "console-log",
+  "version": "0.1.0",
+  "description": "Este paquete nos permite personalizar con colores el contenido que mostramos por consola",
+  "main": "dist/src/index.js",
+  "scripts": {
+    "build": "babel src/index.js -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parrotsoft/log-color.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "parrotsoft"
+  ],
+  "author": "Miguel Lopez Ariza <lopezarizamiguel@gmail.com> (miguellopezariza.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parrotsoft/log-color/issues"
+  },
+  "homepage": "https://github.com/parrotsoft/log-color#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
