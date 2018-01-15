@@ -1,4 +1,4 @@
-# Log Color
+# Log Color Js
 
 Este paquete permite mostrar por consola el log con colores en tres casos.
 
@@ -14,7 +14,7 @@ npm install log-color
 
 ## Uso
 ```
-import log-color from 'log-color'
+import logcolorjs from 'logcolorjs'
 
 log('hola mundo', 1); //Fondo 'red', texto '#FFF'
 log('hola mundo', 2); //Fondo '#4AB578', text '#980025'

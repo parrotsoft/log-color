@@ -1,5 +1,5 @@
 {
-  "name": "log-color",
+  "name": "logcolorjs",
   "version": "0.1.0",
   "description": "Este paquete nos permite personalizar con colores el contenido que mostramos por consola",
   "main": "dist/src/index.js",
