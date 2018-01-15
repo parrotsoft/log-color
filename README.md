@@ -1,4 +1,4 @@
-# Console-Log
+# Log Color
 
 Este paquete permite mostrar por consola el log con colores en tres casos.
 
@@ -9,12 +9,12 @@ Este paquete permite mostrar por consola el log con colores en tres casos.
 ## Instalación
 
 ```
-npm install console-log
+npm install log-color
 ```
 
 ## Uso
 ```
-import console-log from 'console-log'
+import log-color from 'log-color'
 
 log('hola mundo', 1); //Fondo 'red', texto '#FFF'
 log('hola mundo', 2); //Fondo '#4AB578', text '#980025'
