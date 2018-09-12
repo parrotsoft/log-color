@@ -6,7 +6,7 @@ Este paquete permite mostrar por consola el log con colores en tres casos.
 
 - Este paquete cuenta con tres configuraciones iniciales, cada una muestra el log con distinto fondo y color de de texto.
 
-## Instalación
+## Instalación Inicial
 
 ```
 npm install log-color
