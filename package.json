@@ -1,7 +1,7 @@
 {
   "name": "logcolorjs",
-  "version": "1.0.1",
-  "description": "Este paquete nos permite personalizar con colores el contenido que mostramos por consola",
+  "version": "1.0.2",
+  "description": "This pack paints text on the console in various colors",
   "main": "src/index.js",
   "scripts": {},
   "repository": {
