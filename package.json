@@ -3,8 +3,7 @@
   "version": "1.0.1",
   "description": "Este paquete nos permite personalizar con colores el contenido que mostramos por consola",
   "main": "src/index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/parrotsoft/log-color.git"
@@ -20,8 +19,5 @@
     "url": "https://github.com/parrotsoft/log-color/issues"
   },
   "homepage": "https://github.com/parrotsoft/log-color#readme",
-  "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.6.1"
-  }
+  "devDependencies": {}
 }
