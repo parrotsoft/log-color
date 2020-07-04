@@ -2,10 +2,6 @@
 
 **About** This pack paints text on the console in various colors
 
-## Descripción del Paquete.
-
-- Este paquete cuenta con tres configuraciones iniciales, cada una muestra el log con distinto fondo y color de de texto.
-
 **Installation**
 ```npm
 npm install logcolorjs
