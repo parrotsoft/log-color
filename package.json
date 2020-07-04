@@ -1,10 +1,9 @@
 {
   "name": "logcolorjs",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Este paquete nos permite personalizar con colores el contenido que mostramos por consola",
-  "main": "dist/src/index.js",
+  "main": "src/index.js",
   "scripts": {
-    "build": "babel src/index.js -d dist"
   },
   "repository": {
     "type": "git",
